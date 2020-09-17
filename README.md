@@ -1,3 +1,3 @@
 # fibonacciprograms
 fibonacci series generation using for,while,do while and recursion function,
-while loop is efficient
+compared to recursion and for loop while loop is efficient,recursion takes more memory and processor time.
